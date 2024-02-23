@@ -1,0 +1,21 @@
+/* styles.css */
+body {
+  width: 400px;
+  height: 600px;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+}
+
+table {
+  width: 100%;
+}
+
+table, th, td {
+  border-collapse: collapse;
+  border: 1px solid black;
+  padding: 8px;
+}
+
+th, td {
+  text-align: left;
+}
